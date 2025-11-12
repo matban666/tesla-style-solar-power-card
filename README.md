@@ -1,5 +1,7 @@
 # tesla-style-solar-power-card
 
+# I'd recommend using ![Power Flow Card Plus](https://community.home-assistant.io/t/power-flow-card-plus/552326) instead, it is better in many ways
+
 This is a fork of the excellent work by reptilex (see 'forked from')
 
 Improvements in this fork are for general layout and styling to fit extra entity text on different screen sizes and DPIs.  Wh/kWh switching and rounding have being applied to extra entity text in the same way that they were already present for the main entity text.
