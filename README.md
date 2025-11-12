@@ -1,6 +1,6 @@
 # tesla-style-solar-power-card
 
-# I'd recommend using ![Power Flow Card Plus](https://community.home-assistant.io/t/power-flow-card-plus/552326) instead, it is much better!
+# I'd recommend using https://community.home-assistant.io/t/power-flow-card-plus/552326 instead, it is much better!
 
 This is a fork of the excellent work by reptilex (see 'forked from')
 
